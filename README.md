@@ -27,7 +27,7 @@ I also included **U-Net** in the solution because of its strength in accurately 
 - **Strengths**: U-Net demonstrated superior performance in segmenting boundaries and edges of the roofs compared to DeepLabV3.
 
 ### Why Used Both Models for Prediction?
-**DeepLabV3** excels in general segmentation tasks and scales well with larger datasets, and it is the best performer in this case.<br>I also included **U-Net** in prediction for reference. However, it should ideally not be part of the solution as it was showing less accuracy during validation.
+**DeepLabV3** excels in general segmentation tasks and scales well with larger datasets, and it is the best performer in this case. Click [here](./dataset/prediction/deeplabv3) to see prediction with DeepLabV3.<br>I also included **U-Net** in prediction for reference. However, it should ideally not be part of the solution as it was showing less accuracy during validation. Click [here](./dataset/prediction/unet) to see prediction with U-Net.
 
 ## Implementation Details
 ### Training
