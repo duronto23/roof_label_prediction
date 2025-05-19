@@ -1,4 +1,4 @@
-# Predict Roof Label for steetlite images with NN
+# Predict Roof Label from satellite images with NN
 
 ## Problem Statement
 Given two sets of satellite images:
